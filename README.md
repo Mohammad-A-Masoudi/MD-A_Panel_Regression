@@ -1,1 +1,1 @@
-# MD-A_Panel_Regression
+# MD&A_Panel_Regression
